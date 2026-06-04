@@ -1,11 +1,11 @@
-Aap GitHub repository ke README me ye **Download & Run Steps** daal sakte ho:
+
 
 # Download and Run
 
 ## 1. Repository Clone Karein
 
 ```bash
-git clone https://github.com/your-username/one-stop-solution.git
+git clone https://github.com/self72/one-stop-solution.git
 ```
 
 ## 2. Project Folder Me Jaayein
@@ -74,4 +74,4 @@ npm install
 npm run dev
 ```
 
-Agar aapka GitHub repo link mil jaye, to `git clone` wali line me actual repo URL bhi bhar sakta hoon.
+
